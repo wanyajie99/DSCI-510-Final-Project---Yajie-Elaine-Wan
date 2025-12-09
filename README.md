@@ -3,6 +3,7 @@
 ○ Team member: Yajie (Elaine) Wan
 
 ○ Before installing the requirements for this project, first create and activate a virtual environment by running:
+    
     python3 -m venv venv
     
     source venv/bin/activate  # macOS/Linux
