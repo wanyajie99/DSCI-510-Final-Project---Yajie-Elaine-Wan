@@ -11,16 +11,21 @@
     venv\Scripts\activate  # Windows
 
 ○ Then install all required libraries via:
+
     pip install -r requirements.txt
 
 ○ To get the data, run:
+
     python src/get_data.py
 
 ○ To clean the data, run:
+
     python src/clean_data.py
 
 ○ To run the analysis code, run:
+
     python src/run_analysis.py
 
 ○ To visualize the analysis results, run:
+
     python src/visualize_results.py
